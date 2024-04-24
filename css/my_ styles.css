@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color:#6babdb;
 }
 .expedu_icon{
-    color: red;
+    color: rgba(255, 0, 0, 0.514);
 }
 .expedu_icon:hover{
     color: white;
