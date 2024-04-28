@@ -1,6 +1,6 @@
 .bg-primary{
     background-color: pink!important;
-    background-image: url(../assets/img/snow.jpg.JPG);
+    background-image: url(../assets/img/背景.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -12,7 +12,7 @@ p.redred{
     color: white;
     border: 20px solid;
     border-color: brown;
-    background-image: url(../assets/img/snow.jpg.JPG);
+    background-image: url(../assets/img/背景.jpg);
     font-size:40px;
     text-align: center;
     font-family: 'Noto Serif TC', sans-serif;
