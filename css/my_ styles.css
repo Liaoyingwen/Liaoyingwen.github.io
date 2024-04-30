@@ -1,6 +1,8 @@
 .bg-primary{
     background-color: pink!important;
     background-image: url(../assets/img/02.jpg);
+    background-size: cover;
+    background-position: center;
 
 }
 p.redred{
@@ -51,7 +53,7 @@ table {
                 table {
                     border-collapse: separate;
                     }    
-                           
+
 .overflowtest{
     background-color: #6babdb;
     color: aliceblue;
